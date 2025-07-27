@@ -68,7 +68,10 @@ STREAM_MODE: true
 go mod tidy
 go build -o feishubot .
 ./feishubot
+
 ```
+### 4. 飞书详细配置
+https://github.com/ConnectAI-E/Feishu-OpenAI?tab=readme-ov-file#%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE%E6%AD%A5%E9%AA%A4
 
 ## 🛠️ 部署方式
 
