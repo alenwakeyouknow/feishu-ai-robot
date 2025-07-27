@@ -150,9 +150,15 @@ go run main.go
 ```bash
 go test ./...
 ```
-### 效果
-<img width="1304" height="1502" alt="image" src="https://github.com/user-attachments/assets/a3149f95-c665-423b-add0-4336da773809" />
-<img width="1100" height="340" alt="image" src="https://github.com/user-attachments/assets/4461a591-01a3-4a60-a665-777b9415a923" />
+⏺ ### 🎯 效果展示
+
+  #### 聊天界面
+  <img src="https://github.com/user-attachments/assets/a3149f95-c665-423b-add0-4336da773809" width="600" 
+  alt="聊天效果展示" />
+
+  #### 聊天界面
+  <img src="https://github.com/user-attachments/assets/4461a591-01a3-4a60-a665-777b9415a923" width="600" 
+  alt="聊天界面" />
 
 
 ## 📞 支持与反馈
@@ -160,11 +166,17 @@ go test ./...
 - 🐛 **Bug报告**: [提交Issue](https://github.com/alenwakeyouknow/feishu-ai-robot/issues)
 - 💡 **功能建议**: [功能请求](https://github.com/alenwakeyouknow/feishu-ai-robot/issues)
 
-## 该项目部署以及飞书开发联系
-![bab1d0c2a2ec377e9984c5900a023f3b](https://github.com/user-attachments/assets/49fab9cb-8fea-4e04-a703-85b38950de39)
+ ## 🤝 项目部署与飞书开发联系
 
-## 请作者喝杯咖啡
-![641b563e51968c6a5f7a4699814bf2ce](https://github.com/user-attachments/assets/918a836c-4b03-4e60-bcf9-a1f8c09b45b0)
+  <img src="https://github.com/user-attachments/assets/49fab9cb-8fea-4e04-a703-85b38950de39" width="200" 
+  alt="联系方式">
+
+  ## ☕ 请作者喝杯咖啡
+
+  如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
+
+  <img src="https://github.com/user-attachments/assets/918a836c-4b03-4e60-bcf9-a1f8c09b45b0" width="200" 
+  alt="赞助二维码">
 
 
 ## 🙏 致谢
