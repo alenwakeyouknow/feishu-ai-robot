@@ -1,0 +1,30 @@
+#  飞书配置
+BASE_URL: https://open.feishu.cn
+APP_ID: cli_a6617bb05330d00b
+APP_SECRET: 85WkrL77sF7Qi7HlYHussePgNw2xtAfI
+APP_ENCRYPT_KEY: 8YMJmfTeLcxFphPrJUAYEdX8v6ZbnG8M
+APP_VERIFICATION_TOKEN: im5jUhIORmEfz4Ln7edFscfEc1O0Ajfe
+BOT_NAME: CHATGPT
+
+# OpenRouter API配置
+OPENAI_KEY: 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
+OPENAI_MODEL: openai/gpt-4o
+OPENAI_MAX_TOKENS: 2000
+OPENAI_HTTP_CLIENT_TIMEOUT: 550
+
+# 服务器配置 (生产环境)
+HTTP_PORT: 9000
+HTTPS_PORT: 9001
+USE_HTTPS: false
+CERT_FILE: cert.pem
+KEY_FILE: key.pem
+
+# OpenRouter API地址
+API_URL: https://openrouter.ai/api/v1
+HTTP_PROXY: ""
+STREAM_MODE: true
+
+# OpenRouter特有配置
+OPENROUTER_SITE_URL: https://feishu-openai-bot.example.com
+OPENROUTER_SITE_NAME: Feishu OpenAI Bot
+USE_OPENROUTER: true

@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:open.feishu.cn)",
+      "Bash(mv:*)",
+      "Bash(go:*)",
+      "Bash(./feishu-chatgpt)",
+      "Bash(tar:*)",
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(echo:*)",
+      "Bash(rm:*)",
+      "Bash(env)",
+      "WebFetch(domain:open.larksuite.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:blog.csdn.net)",
+      "Bash(mkdir:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:apifox.com)",
+      "Bash(diff:*)",
+      "Bash(md5sum:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": []
+  }
+}
