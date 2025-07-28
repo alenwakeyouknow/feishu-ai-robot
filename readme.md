@@ -213,6 +213,9 @@ go test ./...
 ## 🙏 致谢
 
 感谢 [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) 提供的优秀基础框架。
+人生目标管理系统：
+
+https://nfctodo.com/
 
 本项目在原有基础上进行了专项优化，专注于：
 - ✅ 界面简化与用户体验提升
